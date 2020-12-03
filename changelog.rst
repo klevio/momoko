@@ -1,6 +1,10 @@
 Changelog
 =========
 
+2.2.5.2 (2020-12-03)
+--------------------
+*  Allow install on Tornado 6.
+
 2.2.5.1 (2018-11-05)
 --------------------
 *  Updated README (mainly for PyPi)
